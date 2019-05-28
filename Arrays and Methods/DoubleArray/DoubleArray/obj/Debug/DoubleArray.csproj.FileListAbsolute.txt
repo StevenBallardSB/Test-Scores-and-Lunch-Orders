@@ -1,7 +1,0 @@
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\bin\Debug\DoubleArray.exe.config
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\bin\Debug\DoubleArray.exe
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\bin\Debug\DoubleArray.pdb
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\obj\Debug\DoubleArray.csprojAssemblyReference.cache
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\obj\Debug\DoubleArray.csproj.CoreCompileInputs.cache
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\obj\Debug\DoubleArray.exe
-C:\Users\ballard9576\Desktop\.net Projects\Arrays and Methods\DoubleArray\DoubleArray\obj\Debug\DoubleArray.pdb
