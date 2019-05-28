@@ -1,0 +1,10 @@
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\bin\Debug\ProcessLunchOrders.exe.config
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\bin\Debug\ProcessLunchOrders.exe
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\bin\Debug\ProcessLunchOrders.pdb
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.csprojAssemblyReference.cache
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.Form1.resources
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.Properties.Resources.resources
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.csproj.GenerateResource.cache
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.csproj.CoreCompileInputs.cache
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.exe
+C:\Users\StevenBallard\Desktop\.net projects\ProcessLunchOrders\ProcessLunchOrders\obj\Debug\ProcessLunchOrders.pdb
